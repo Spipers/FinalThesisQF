@@ -1,0 +1,17 @@
+.DS_Store
+Data/Firm_variables/firmcharacteristics.csv
+Data/Macroeconomic_variables/1_year_bond_rate.csv
+Data/Macroeconomic_variables/2_year_bond_rate.csv
+Data/Macroeconomic_variables/FedFund_rate.csv
+Data/Macroeconomic_variables/Goldprice.csv
+Data/Macroeconomic_variables/merged_marcofirm.parquet
+Data/Macroeconomic_variables/Recession_indicator.csv
+Data/Macroeconomic_variables/Riskfree_interest.csv
+Data/Option_data/SSO_complete.csv
+Data/Option_data/sso_complete.parquet
+Data/Stock_data/stock_data.csv
+Data/Stock_data/stock_data.parquet
+Data/Stock_data/stock_data1.csv
+Data/option_data.parquet
+Data/Firm_variables/daily_firm_data_spline.parquet
+Data/Firm_variables/firm_data.parquet
