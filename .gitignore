@@ -3,3 +3,11 @@
 *.parquet
 *.csv
 *.zip
+
+# Ignore the virtual environment folder
+myenv/
+
+# Ignore any other large files or directories
+*.dylib
+*.so
+*.dll
